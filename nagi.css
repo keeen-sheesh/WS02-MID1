@@ -12,7 +12,6 @@ header{
 	width: 100%;
 	margin: auto;
 	text-align: center;
-/*	background-color: #C2C2C2;*/
 	padding-bottom: 10px;
 	border: solid 3px #010B1F;
 	background: -webkit-radial-gradient(
@@ -34,85 +33,70 @@ section{
 	width: 100%;
 	margin: auto;
 }
+section{
+	width: 100%;
+	margin: auto;
+}
 h1{
 	color: #000342;
 	font-size: 60px;
 /*	font-family: NotoSansJP;*/
     font-family: 'Westerniya Serif', sans-serif;
     text-shadow: 2px 2px 10px ghostwhite;
+    padding-top: 10px;
 }
 .head{
 	color: #000342;
 	font-size: 45px;
     text-shadow: 2px 2px 5px ghostwhite;
 	font-family: 'Japanese', sans-serif;
-                                                
+	padding-bottom: 10px;
 }
 .content{
 	padding: 10px;
 	padding-top: 10px;
-	font-size: 24px;
+	font-size: 18px;
 	font-family: 'Pilcrow', sans-serif;
     background-color: #010B1F;
-	text-align: center;
-	color: whitesmoke;
-/*	background: -webkit-linear-gradient(
-		to top,
-		#C2C2C2,
-		#6A6C6F);
-	background: linear-gradient(
-		#6A6C6F,
-		#C2C2C2);*/
+    color: whitesmoke;
 }
 .nag{
 	width: 50%;
 	margin: auto;
-	text-align: center;
+/*	padding-top: 30px;
+	padding-bottom: 20px;*/
+	padding: 30px;
 }
 .nagis{
-	font-size: 28px;
+	font-size: 20px;
 }
 .ability{
 	margin: auto;
 	font-family: 'Swansea', sans-serif;
-    justify-content: center;
-    text-align: center;
-	padding: 10px;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	font-size: 24px;
+/*	width: 50%;*/
+	padding: 20px;
+	text-align: left;
+	font-size: 22px;
 	background-color: #010B1F;
-	color: whitesmoke;
-/*	background: -webkit-linear-gradient(
-		to top,
-		#C2C2C2,
-		#6A6C6F);
-	background: linear-gradient(
-		#6A6C6F,
-		#C2C2C2);*/
 }
 .nagility{
 	margin: auto;
 	width: 50%;
 	padding-top: 10px;
-	text-align: center;
+	font-size: 20px;
+	color: whitesmoke;
 }
-ul{
+.naggs{
 	margin: auto;
 	width: 50%;
-	text-align: center;
-	padding-left: 70px;
 	padding-top: 10px;
-}
-li{
-	margin: auto;
-	text-align: justify-all;
-	padding-bottom: 10px;
+	font-size: 15px;
+	color: whitesmoke;
 }
 .teem{ 
 	margin: auto;
+	width: 100%;
 	text-align: center;
-/*	background-color: #6A6C6F;*/
 	background: -webkit-linear-gradient(
 		to top,
 		#010B1F,
@@ -123,10 +107,11 @@ li{
 		#002268,
 		#010B1F);
 }
-.team{
+.with{
+	margin: auto;
 	border: solid 5px #000342;
-	width: 30%;
-	height: auto;
+	width: 40%;
+	height: 50%;
 	border-radius: 10px;
 }
 .teammate{
@@ -156,8 +141,3 @@ footer{
 	color: whitesmoke;
 	font-size: 15px;
 }
-/*.paa{
-	margin: auto;
-	padding-top: 110px;
-}
-*/

@@ -42,6 +42,7 @@ h1{
 	font-size: 60px;
 /*	font-family: NotoSansJP;*/
     font-family: 'Westerniya Serif', sans-serif;
+    letter-spacing: 0.2em;
     text-shadow: 2px 2px 10px ghostwhite;
     padding-top: 10px;
 }
@@ -50,6 +51,7 @@ h1{
 	font-size: 45px;
     text-shadow: 2px 2px 5px ghostwhite;
 	font-family: 'Japanese', sans-serif;
+    letter-spacing: 0.2em;
 	padding-bottom: 10px;
 }
 .content{
@@ -72,7 +74,7 @@ h1{
 }
 .ability{
 	margin: auto;
-	font-family: 'Swansea', sans-serif;
+/*	font-family: 'Swansea', sans-serif;*/
 /*	width: 50%;*/
 	padding: 20px;
 	text-align: left;
@@ -83,6 +85,9 @@ h1{
 	margin: auto;
 	width: 50%;
 	padding-top: 10px;
+    font-family: 'Westerniya Serif', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
 	font-size: 20px;
 	color: whitesmoke;
 }
@@ -91,6 +96,7 @@ h1{
 	width: 50%;
 	padding-top: 10px;
 	font-size: 18px;
+	font-family: 'Swansea', sans-serif;
 	color: whitesmoke;
 }
 .teem{ 

@@ -134,8 +134,9 @@ h1{
 	display: flex;
 	margin: auto;
 	font-family: 'Swansea', sans-serif;
-	align-items: center;
+/*	align-items: left;*/
 	justify-content: center;
+	padding: 20px;
 }
 footer{
 	width: 100%;
